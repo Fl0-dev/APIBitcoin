@@ -32,4 +32,3 @@ function recupererPrix() {
 }
 //actualisation toutes les secondes en créant un interval
 setInterval(recupererPrix,1000);
-
